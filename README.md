@@ -1,2 +1,2 @@
 # github_testing_3
-My name is rajnikant
+My name is rajnikan
